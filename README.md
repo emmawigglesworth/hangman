@@ -1,2 +1,2 @@
 # hangman
-hangman game on python
+program that allows the user to play a hangman game on python!
